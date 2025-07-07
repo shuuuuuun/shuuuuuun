@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @shuuuuuun
 - 👀 I’m interested in studing English and programming.
-- 🌱 I’m currently learning Python and java.
+- 🌱 I’m currently learning Python , shellscript , AWS .
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 shuuuuuun/shuuuuuun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
